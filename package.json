@@ -1,0 +1,16 @@
+{
+  "name": "visual-regression",
+  "version": "1.0.0",
+  "description": "Visual regression task",
+  "main": "index.js",
+  "scripts": {
+    "cypress:open": "cypress open",
+    "cypress:run": "cypress run"
+  },
+  "author": "Gerda Monkeviciute",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^6.5.0",
+    "cypress-image-snapshot": "^4.0.1"
+  }
+}
