@@ -37,4 +37,7 @@ Note: tests on headless mode are run on different resolution, so they will fail 
 
 Notes: try to really investigate the plugin and its capabilities.
 
+## More
+- An interesting blog post on visual regression https://medium.com/loftbr/visual-regression-testing-eb74050f3366
+
 ### Have fun!
