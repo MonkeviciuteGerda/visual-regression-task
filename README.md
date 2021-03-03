@@ -32,7 +32,7 @@ Note: tests on headless mode are run on different resolution, so they will fail 
 ## Tasks
 1. Test About us page
 2. Test home page on mobile Pixel 2 and tablet iPad pro resolutions
-3. Write a test to Write a review for a product and then use visual regression to test it
+3. Write a test to Create new saved address and then use visual regression to test filled form
 4. Select your own 2 Test cases and implement them, use data mocking and different plugin configurations
 
 Notes: try to really investigate the plugin and its capabilities.
